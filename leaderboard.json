@@ -1,0 +1,26 @@
+[
+  {
+    "name": "neha",
+    "time": 1.0,
+    "difficulty": "medium",
+    "grid_size": "9",
+    "timestamp": "2025-06-12T17:04:41.781143"
+  },
+  {
+    "name": "jkl",
+    "time": 1.0,
+    "difficulty": "medium",
+    "grid_size": "9",
+    "timestamp": "2025-06-12T17:06:43.835517"
+  },
+  {
+    "player": "Anonymous",
+    "time": 3.53,
+    "difficulty": "medium"
+  },
+  {
+    "player": "Anonymous",
+    "time": 4.49,
+    "difficulty": "medium"
+  }
+]
